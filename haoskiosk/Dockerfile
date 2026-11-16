@@ -50,6 +50,8 @@ RUN apk update && apk add --no-cache \
      scrot \
 ### Full Timezone info
      icu-data-full \
+### cec-utils
+    libcec-tools \
 ### Python libraries
 #    py3-pip \
     py3-aiohttp \
